@@ -1,7 +1,6 @@
 #language: pt
 #encoding: UTF-8
 @ui
-
 Funcionalidade: Trello UI
   @ui
   Esquema do Cenario: Criando, comentando e deletando um card
