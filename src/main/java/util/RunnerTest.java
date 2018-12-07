@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "src/main/resources/features/TrelloUi.features",
+        features = "src/main/resources/features/ui/TrelloUi.features",
         glue = {"steps", "util"}
 
 )

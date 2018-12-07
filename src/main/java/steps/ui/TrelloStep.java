@@ -1,4 +1,4 @@
-package steps;
+package steps.ui;
 
 import cucumber.api.PendingException;
 import cucumber.api.java.pt.Dado;
